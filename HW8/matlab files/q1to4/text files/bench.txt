@@ -1,0 +1,113 @@
+MATLAB Programming for Engineers and Scientists Specialization
+
+About this Course
+
+This course teaches computer programming to those with little to no previous experience. It uses the programming system and language called MATLAB to do so because it is easy to learn, versatile and very useful for engineers and other professionals. MATLAB is a special-purpose language that is an excellent choice for writing moderate-size programs that solve problems involving the manipulation of numbers. The design of the language makes it possible to write a powerful program in a few lines. The problems may be relatively complex, while the MATLAB programs that solve them are relatively simple: relative, that is, to the equivalent program written in a general-purpose language, such as C++ or Java. As a result, MATLAB is being used in a wide variety of domains from the natural sciences, through all disciplines of engineering, to finance, and beyond, and it is heavily used in industry. Hence, a solid background in MATLAB is an indispensable skill in today’s job market.
+
+Nevertheless, this course is not a MATLAB tutorial. It is an introductory programming course that uses MATLAB to illustrate general concepts in computer science and programming. Students who successfully complete this course will become familiar with general concepts in computer science, gain an understanding of the general concepts of programming, and obtain a solid foundation in the use of MATLAB.
+
+Students taking the course will get a MATLAB Online license free of charge for the duration of the course. The students are encouraged to consult the eBook that this course is based on. More information about these resources can be found on the Resources menu on the right.
+
+
+WHAT YOU WILL LEARN
+You will learn fundamental computer programming concepts such as variables, control structures, functions and many others.
+
+You will learn about various data types and how to handle them in MATLAB.
+
+You will learn the powerful support MATLAb provides for working with matrices.
+
+You will learn about file input/output.
+
+SKILLS YOU WILL GAIN
+Computer Programming
+Problem Solving
+Matlab
+Programming Language
+Flexible deadlines
+Reset deadlines in accordance to your schedule.
+Shareable Certificate
+Earn a Certificate upon completion
+100% online
+Start instantly and learn at your own schedule.
+Course 1 of 3 in the
+MATLAB Programming for Engineers and Scientists Specialization
+Beginner Level
+Approx. 35 hours to complete
+English
+Subtitles: Arabic, French, Portuguese (European), Greek, Italian, Vietnamese, German, Russian, English, Spanish
+Instructors
+Instructor rating
+
+Akos Ledeczi
+Professor of Computer Engineering, Computer Science and Electrical Engineering
+Department of Electrical Engineering and Computer Science
+
+
+ 2 Courses
+Mike Fitzpatrick
+Professor Emeritus of Computer Science, Computer Engineering, Electrical Engineering, Neurosurgery, and Radiology
+Electrical Engineering & Computer Science, Neurological Surgery, Radiology & Radiological Sciences
+
+
+ 2 Courses
+Offered by
+Vanderbilt University logo
+Vanderbilt University
+Vanderbilt University, located in Nashville, Tenn., is a private research university and medical center offering a full-range of undergraduate, graduate and professional degrees.
+
+
+Other courses in this Specialization
+Syllabus - What you will learn from this course
+
+WEEK 1
+1 hour to complete
+Course Pages
+1 video (Total 2 min), 3 readings
+WEEK 2
+3 hours to complete
+The MATLAB Environment
+We will learn how to start MATLAB and will familiarize ourselves with its user interface. We will learn how to use MATLAB as a sophisticated calculator. We will learn about syntax and semantics. We will see ways in which MATLAB provides help. Finally, we will learn how to create plots in MATLAB.
+
+7 videos (Total 132 min), 1 reading, 2 quizzes
+WEEK 3
+3 hours to complete
+Matrices and Operators
+The basic unit with which we work in MATLAB is the matrix. We solve problems by manipulating matrices, and operators are the primary means by which we manipulate them. We will learn how to define matrices, extract parts of them and combine them to form new matrices. We will learn how to use operators to add, subtract, multiply, and divide matrices, and we will learn that there are several different types of multiplication and division. Finally, we will learn MATLAB’s rules for determining the order in which operators are carried out when more than one of them appear in the same expression.
+
+6 videos (Total 82 min), 1 reading, 4 quizzes
+WEEK 4
+2 hours to complete
+Functions
+Functions let us break up complex problems into smaller, more manageable parts. We will learn how functions let us create reusable software components that can be applied in many different programs. We will learn how the environment inside a function is separated from the outside via a well defined interface through which it communicates with that outside world. We will learn how to define a function to allow input to it when it initiates its execution and output from it when it is done.
+
+7 videos (Total 50 min), 1 reading, 3 quizzes
+WEEK 5
+3 hours to complete
+Programmer's Toolbox
+MATLAB has useful built-in functions and we will explore many of them in this section. We will learn about polymorphism and how MATLAB exploits it to change a function's behavior on the basis of the number and type of its inputs. Because random numbers play an important role in computer programming, we will learn how to use the MATLAB random number generator. We will learn how to get input from the keyboard, how to print to the Command Window, and how to plot graphs in a Figure window. Finally, we will learn how to find programming errors with the help of the debugger.
+
+5 videos (Total 83 min), 1 reading, 2 quizzes
+WEEK 6
+5 hours to complete
+Selection
+Selection is the means by which MATLAB makes decisions about the order in which it executes its statements. We will learn how to use the if-statement, which is the most important method of selection. We will learn how to use relational operators and logical operators. We will learn how to write polymorphic functions and how to make functions resistant to error.
+
+7 videos (Total 80 min), 2 readings, 4 quizzes
+WEEK 7
+7 hours to complete
+Loops
+Loops give computers their power. We will learn how to use both of MATLAB's loop constructs: the for-loop and the while-loop. We will learn how the break-statement works, and we will use nested loops. We will learn how to make loops more efficient. We will learn about logical indexing and will see how to use it to produce implicit loops that are efficient and easy for a user to understand.
+
+5 videos (Total 133 min), 2 readings, 4 quizzes
+WEEK 8
+6 hours to complete
+Data Types
+Computers operate on bits, but humans think in terms of numbers, words, and other types of data. Like any good language, MATLAB organizes bits into convenient data types. We will study those types in this section. We will learn that there are ten types of numbers and that there are conversion functions to change one type into another. We will learn much more about strings and how the characters in them are encoded as numbers. We will learn how to produce heterogeneous collections of data via structs and cells, and we will learn how to store points in time and time durations.
+
+6 videos (Total 194 min), 3 readings, 2 quizzes
+WEEK 9
+7 hours to complete
+File Input/Output
+Files are named areas in permanent memory for storing data that can be used as input or output to MATLAB and to other programs. We will be introduced to MATLAB’s most important methods for reading and writing files. We will learn how to create, read from, and write into MAT-files, Excel files, text files, and binary files. We will learn how to navigate among folders with MATLAB commands.
+
+4 videos (Total 75 min), 5 readings, 5 quizzes
